@@ -1,2 +1,2 @@
 # currency_calculator
-Calculation of currencies
+Calculation of currencies (requests, json)
